@@ -1,5 +1,8 @@
 # U.S. Cancer Regression Data Analysis
-This project investigates cancer incidence and mortality across U.S. regions using public datasets. The analysis involves data cleaning, exploratory analysis, hypothesis testing, and visualizations—all conducted in a Jupyter Notebook (Google Colab).
+### This project investigates cancer incidence and mortality across U.S. regions using public datasets. The analysis involves data cleaning, exploratory analysis, hypothesis testing, and visualizations—all conducted in a Jupyter Notebook (Google Colab).
+
+Zach Ranjan, Patrick Erickson, Josh Santiago
+
 ---
 ## Overview
 
